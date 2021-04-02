@@ -37,7 +37,7 @@
   </a>
  </h3>
  
- <br>
+ 
  
  <h3> Tecnologias de Back-End <p>
   <a href = "">
@@ -70,7 +70,7 @@
   </a>
  </h3>
  
- <br>
+ 
  
  <h3> Tecnologias de Testes <p>
  
