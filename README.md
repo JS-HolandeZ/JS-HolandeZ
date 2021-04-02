@@ -26,7 +26,7 @@
   &nbsp; &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src="https://gremmedia.hu/storage/app/uploads/public/5eb/e9a/f22/5ebe9af2215a9357125656.png" 
+   <img aling= "center" heigth="50" width ="50" src="https://gremmedia.hu/storage/app/uploads/public/5eb/e9a/f22/5ebe9af2215a9357125656.png" 
    style="max-width: 100%">
   </a>
   &nbsp; &nbsp;
