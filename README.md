@@ -59,7 +59,7 @@
    &nbsp;  &nbsp;
    
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src = "https://pngimg.com/uploads/mysql/mysql_PNG9.png" 
+   <img aling= "center" heigth="60" width ="80" src = "https://unaaldia.hispasec.com/wp-content/uploads/2013/04/1f635-mysql_logo.jpg?w=300" 
     style="max-width: 100%">
   </a>
   &nbsp;  &nbsp;
