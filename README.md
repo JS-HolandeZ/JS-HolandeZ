@@ -65,7 +65,7 @@
   &nbsp;  &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
+   <img aling= "center" heigth="60" width ="60" src = "https://siga0984.files.wordpress.com/2019/11/mongodb-logo.png" 
     style="max-width: 100%">
   </a>
  </h3>
