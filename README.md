@@ -32,7 +32,7 @@
   &nbsp; &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src="https://www.primefaces.org/primeng/showcase/assets/showcase/images/themes/bootstrap4-light-purple.svg" 
+   <img aling= "center" heigth="40" width ="40" src="https://www.pngegg.com/en/png-vejvo" 
    style="max-width: 100%">
   </a>
  </h3>
