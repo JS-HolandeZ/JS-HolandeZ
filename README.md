@@ -1,3 +1,8 @@
+ <h2>J. Samuel Holanda</h2>
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.comfont=Fira+Code&pause=1000&color=22C5F7&width=435&lines=Quality+Assurance+%7C+Test+Automation+%7C+QA+Tester" alt="Typing SVG" /></a>
+
+
   <a href = "https://www.linkedin.com/in/j-samuel-holanda/">
    <img aling= "center" heigth="50" width ="80" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
   style="max-width: 100%">
