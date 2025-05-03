@@ -111,6 +111,12 @@
   </a>
  </h3>
 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JS-HolandeZ&locale=pt- 
+  br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" alt="Top Langs" />
+</p>
+
+
 <p align="center">
   <img src="https://camo.githubusercontent.com/523e198db91e59fcb95fedd872dc9e957e4cc09d07ed65167e7b559bb1f5d2d3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343037396138266865696768743d3132302673656374696f6e3d666f6f746572" alt="Wave footer" />
 </p>
