@@ -127,7 +127,8 @@
 </p>
 
 
-![Snake animation](https://github.com/JS-HolandeZ/JS-HolandeZ/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JS-HolandeZ/JS-HolandeZ/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 <p align="center">
