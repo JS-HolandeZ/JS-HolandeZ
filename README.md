@@ -1,7 +1,13 @@
- <h1>J. Samuel Holanda</h1>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C5F7&width=435&lines=Quality+Assurance+%7C+Test+Automation+%7C+QA+Tester)](https://git.io/typing-svg)
 
+ <p align="center">
+  <h1>J. Samuel Holanda</h1>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C5F7&width=435&lines=Quality+Assurance+%7C+Test+Automation+%7C+QA+Tester)](https://git.io/typing-svg)
+
+</p>
+
+
+ 
 
   <a href = "https://www.linkedin.com/in/j-samuel-holanda/">
    <img aling= "center" heigth="50" width ="80" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
@@ -111,8 +117,11 @@
   </a>
  </h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JS-HolandeZ&theme=github_dark&show_icons=true)
+
  
+<p align="center">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JS-HolandeZ&theme=github_dark&show_icons=true)
+</p>
 
 
 
@@ -125,7 +134,7 @@
   
   
   
- </h3>
+ 
  
  
 <br>
