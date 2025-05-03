@@ -119,6 +119,12 @@
   </a>
  </h3>
 
+### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JS-HolandeZ&show_icons=true&theme=radical)
+
+### GitHub Contribution Grid:
+![GitHub Contribution Grid](https://github-readme-streak-stats.herokuapp.com/?user=JS-HolandeZ&theme=radical)
+
 
  
 
