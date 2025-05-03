@@ -111,7 +111,7 @@
   </a>
  </h3>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=samuelholanda&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 
