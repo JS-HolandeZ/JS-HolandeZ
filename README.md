@@ -32,7 +32,7 @@
   &nbsp; &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src="https://logospng.org/wp-content/uploads/bootstrap.png" 
+   <img aling= "center" heigth="40" width ="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" 
    style="max-width: 100%">
   </a>
  </h3>
