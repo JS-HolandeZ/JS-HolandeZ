@@ -111,10 +111,8 @@
   </a>
  </h3>
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JS-HolandeZ&locale=pt- 
-  br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" alt="Top Langs" />
-</p>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=samuelholanda&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2)
+
 
 
 <p align="center">
