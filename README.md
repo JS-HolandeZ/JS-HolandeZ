@@ -32,7 +32,7 @@
   &nbsp; &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src="https://www.pngegg.com/en/png-vejvo" 
+   <img aling= "center" heigth="40" width ="40" src="https://logospng.org/wp-content/uploads/bootstrap.png" 
    style="max-width: 100%">
   </a>
  </h3>
