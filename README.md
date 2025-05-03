@@ -111,7 +111,7 @@
   </a>
  </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github&dark_icons=true) github_dark
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark_icons=true) 
 
 
 
