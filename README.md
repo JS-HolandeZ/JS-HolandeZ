@@ -127,6 +127,7 @@
 </p>
 
 
+![Snake animation](https://github.com/JS-HolandeZ/JS-HolandeZ/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
