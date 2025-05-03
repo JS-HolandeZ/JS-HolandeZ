@@ -21,7 +21,7 @@
 
 
  
- <h3> Tecnologias de Front-End <p> <p>
+ <h3> Tecnologias de Front-End <p> 
   
   <a href = "">
    <img aling= "center" heigth="40" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
