@@ -111,7 +111,8 @@
   </a>
  </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JS-HolandeZ&theme=github_dark&show_icons=true)
+ 
 
 
 
