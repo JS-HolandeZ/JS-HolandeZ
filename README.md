@@ -154,13 +154,13 @@
   &nbsp;  &nbsp;
 
   <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://p1.hiclipart.com/preview/384/298/480/jenkins-continuous-integration-software-deployment-software-testing-kohsuke-kawaguchi-continuous-delivery-software-build-plugin-png-clipart.jpg" 
+   <img aling= "center" heigth="30" width ="30" src = "https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" 
     style="max-width: 100%">
   </a>
   &nbsp;  &nbsp;
 
   <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://p1.hiclipart.com/preview/384/298/480/jenkins-continuous-integration-software-deployment-software-testing-kohsuke-kawaguchi-continuous-delivery-software-build-plugin-png-clipart.jpg" 
+   <img aling= "center" heigth="30" width ="30" src = "https://cdn-icons-png.flaticon.com/512/919/919853.png" 
     style="max-width: 100%">
   </a>
   &nbsp;  &nbsp;
