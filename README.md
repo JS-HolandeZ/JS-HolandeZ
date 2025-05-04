@@ -59,7 +59,13 @@
    <img aling= "center" heigth="50" width ="50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" 
     style="max-width: 100%">
   </a>
-  &nbsp;  &nbsp;
+  &nbsp; &nbsp;
+
+  <a href = "">
+   <img aling= "center" heigth="30" width ="30" src = "https://www.tisdigitech.com/wp-content/uploads/2024/06/PHP-bg.png" 
+    style="max-width: 100%">
+  </a>
+  &nbsp; &nbsp;
   
   <a href = "">
    <img aling= "center" heigth="40" width ="50" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/Maven.png" 
@@ -83,7 +89,14 @@
    <img aling= "center" heigth="50" width ="50" src = "https://www.w3schools.in/wp-content/uploads/mongodb-logo.png" 
     style="max-width: 100%">
   </a>
+
+  
+
+
+ 
  </h3>
+
+ 
  
  
  
