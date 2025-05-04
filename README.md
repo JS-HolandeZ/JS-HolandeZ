@@ -148,7 +148,7 @@
   <h3> Tecnologias de Devops <p>
  
   <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://p1.hiclipart.com/preview/384/298/480/jenkins-continuous-integration-software-deployment-software-testing-kohsuke-kawaguchi-continuous-delivery-software-build-plugin-png-clipart.jpg" 
+   <img aling= "center" heigth="30" width ="30" src = "https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png" 
     style="max-width: 100%">
   </a>
   &nbsp;  &nbsp;
