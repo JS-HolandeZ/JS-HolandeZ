@@ -109,6 +109,12 @@
   &nbsp;  &nbsp;
   
   <a href = "">
+   <img aling= "center" heigth="50" width ="50" src = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*N5M8NJtZp83EMrK1WGhjjw.png" 
+    style="max-width: 100%; ">
+  </a>
+  &nbsp;  &nbsp;
+
+  <a href = "">
    <img aling= "center" heigth="50" width ="50" src = "https://static-00.iconduck.com/assets.00/postman-icon-512x512-egthorop.png" 
     style="max-width: 100%; ">
   </a>
