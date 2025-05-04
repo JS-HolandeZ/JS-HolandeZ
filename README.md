@@ -154,13 +154,13 @@
   &nbsp;  &nbsp;
 
   <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" 
+   <img aling= "center" heigth="40" width ="40" src = "https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" 
     style="max-width: 100%">
   </a>
   &nbsp;  &nbsp;
 
   <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://cdn-icons-png.flaticon.com/512/919/919853.png" 
+   <img aling= "center" heigth="30" width ="30" src = "https://image.pngaaa.com/357/4882357-middle.png" 
     style="max-width: 100%">
   </a>
   &nbsp;  &nbsp;
