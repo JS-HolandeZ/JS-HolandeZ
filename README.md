@@ -75,12 +75,6 @@
   &nbsp;  &nbsp;
   
   <a href = "">
-
-   <img aling= "center" heigth="50" width ="50" src = "https://i.pinimg.com/736x/28/bf/f0/28bff0731fbcbd9e955deaf92ff0c090.jpg" 
-    style="max-width: 100%">
-  </a>
-
-   
    <img aling= "center" heigth="50" width ="50" src = "https://www.w3schools.in/wp-content/uploads/mongodb-logo.png" 
     style="max-width: 100%">
   </a>
