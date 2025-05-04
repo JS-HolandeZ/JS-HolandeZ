@@ -109,7 +109,7 @@
   &nbsp;  &nbsp;
 
   <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://static-00.iconduck.com/assets.00/postman-icon-512x512-egthorop.png" 
+   <img aling= "center" heigth="25" width ="25" src = "https://static-00.iconduck.com/assets.00/postman-icon-512x512-egthorop.png" 
     style="max-width: 100%; ">
   </a>
   &nbsp;  &nbsp;
