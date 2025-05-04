@@ -27,6 +27,7 @@
    <img aling= "center" heigth="40" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
    style="max-width: 100%">
   </a>
+  
   &nbsp; &nbsp;
   
   <a href = "">
@@ -45,22 +46,18 @@
    <img aling= "center" heigth="40" width ="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" 
    style="max-width: 100%">
   </a>
-
   &nbsp; &nbsp;
 
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" 
+   <img aling= "center" heigth="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" 
    style="max-width: 100%">
   </a>
-
   &nbsp; &nbsp;
 
   <a href = "">
    <img aling= "center" heigth="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/120px-Typescript_logo_2020.svg.png" 
    style="max-width: 100%">
   </a>
-
-
   
  </h3>
  
