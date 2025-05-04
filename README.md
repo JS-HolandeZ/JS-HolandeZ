@@ -57,7 +57,7 @@
   &nbsp;  &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="80" width ="110" src = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*kbSGIVukG6lL7JtAa9wiDA.png" 
+   <img aling= "center" heigth="80" width ="110" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/Maven.png" 
     style="max-width: 100%; ">
   </a>
   &nbsp;  &nbsp;
