@@ -148,7 +148,7 @@
   <h3> Tecnologias de Devops <p>
  
   <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png" 
+   <img aling= "center" heigth="30" width ="30" src = "https://www.jenkins.io/images/logos/jenkins/jenkins.svg" 
     style="max-width: 100%">
   </a>
   &nbsp;  &nbsp;
