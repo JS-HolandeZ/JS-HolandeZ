@@ -109,13 +109,13 @@
   &nbsp;  &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="60" width ="60" src = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*N5M8NJtZp83EMrK1WGhjjw.png" 
+   <img aling= "center" heigth="70" width ="70" src = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*N5M8NJtZp83EMrK1WGhjjw.png" 
     style="max-width: 100%; ">
   </a>
   &nbsp;  &nbsp;
 
   <a href = "">
-   <img aling= "center" heigth="60" width ="60" src = "https://static-00.iconduck.com/assets.00/postman-icon-512x512-egthorop.png" 
+   <img aling= "center" heigth="40" width ="40" src = "https://static-00.iconduck.com/assets.00/postman-icon-512x512-egthorop.png" 
     style="max-width: 100%; ">
   </a>
   &nbsp;  &nbsp;
