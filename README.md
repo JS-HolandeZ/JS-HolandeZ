@@ -24,14 +24,14 @@
  <h3> Tecnologias de Front-End <p> 
   
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+   <img aling= "center" heigth="30" width ="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
    style="max-width: 100%">
   </a>
   
   &nbsp; &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" 
+   <img aling= "center" heigth="30" width ="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" 
    style="max-width: 100%">
   </a>
   &nbsp; &nbsp;
@@ -43,7 +43,7 @@
   &nbsp; &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" 
+   <img aling= "center" heigth="30" width ="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" 
    style="max-width: 100%">
   </a>
   &nbsp; &nbsp;
@@ -55,7 +55,7 @@
   &nbsp; &nbsp;
 
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/120px-Typescript_logo_2020.svg.png" 
+   <img aling= "center" heigth="30" width ="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/120px-Typescript_logo_2020.svg.png" 
    style="max-width: 100%">
   </a>
   
