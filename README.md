@@ -160,7 +160,7 @@
   &nbsp;  &nbsp;
 
   <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://raw.githubusercontent.com/jpb06/jpb06/master/icons/GithubActions-Dark.svg" 
+   <img aling= "center" heigth="40" width ="40" src = "https://raw.githubusercontent.com/jpb06/jpb06/master/icons/GithubActions-Dark.svg" 
     style="max-width: 100%">
   </a>
   &nbsp;  &nbsp;
