@@ -129,7 +129,7 @@
 
 ### GitHub Activity Graph:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JS-HolandeZ&radius=16&theme=radical&area=true&hide_title=false&hide_border=false&order=5)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JS-HolandeZ&radius=16&theme=github_dark&area=true&hide_title=false&hide_border=false&order=5)
 
  
 
