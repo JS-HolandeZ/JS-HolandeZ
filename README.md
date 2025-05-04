@@ -53,10 +53,10 @@
    style="max-width: 100%">
   </a>
 
-&nbsp; &nbsp;
+  &nbsp; &nbsp;
 
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" 
+   <img aling= "center" heigth="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/120px-Typescript_logo_2020.svg.png" 
    style="max-width: 100%">
   </a>
 
