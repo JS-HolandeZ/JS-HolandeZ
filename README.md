@@ -27,7 +27,6 @@
    <img aling= "center" heigth="30" width ="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
    style="max-width: 100%">
   </a>
-  
   &nbsp; &nbsp;
   
   <a href = "">
