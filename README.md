@@ -6,7 +6,14 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C5F7&width=435&lines=Quality+Assurance+%7C+Test+Automation+%7C+QA+Tester)](https://git.io/typing-svg)
 
- 
+
+ <h3> Contato e Informações <p> 
+
+  <a href = "https://www.linkedin.com/in/j-samuel-holanda/">
+    <img aling= "center" heigth="30" width ="30" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
+    style="max-width: 100%">
+  </a>
+   &nbsp; &nbsp;
 
   <a href = "https://www.linkedin.com/in/j-samuel-holanda/">
     <img aling= "center" heigth="50" width ="80" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
@@ -142,6 +149,14 @@
     style="max-width: 100%">
   </a>
  </h3>
+
+  <h3> Tecnologias de Devops <p>
+ 
+  <a href = "">
+   <img aling= "center" heigth="30" width ="30" src = "https://ciclosw.files.wordpress.com/2015/08/big-logo.png" 
+    style="max-width: 100%">
+  </a>
+  &nbsp;  &nbsp;
 
 ### GitHub Stats:
 
