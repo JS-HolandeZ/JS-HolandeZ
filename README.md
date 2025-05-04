@@ -57,7 +57,7 @@
   &nbsp;  &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="80" width ="110" src = "https://banner2.cleanpng.com/20180607/esv/aa822iu1e.webp" 
+   <img aling= "center" heigth="80" width ="110" src = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*kbSGIVukG6lL7JtAa9wiDA.png" 
     style="max-width: 100%; ">
   </a>
   &nbsp;  &nbsp;
