@@ -132,7 +132,7 @@
   &nbsp;  &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/JMeter_Logo.png" 
+   <img aling= "center" heigth="40" width ="40" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/JMeter_Logo.png" 
     style="max-width: 100%">
   </a>
  </h3>
