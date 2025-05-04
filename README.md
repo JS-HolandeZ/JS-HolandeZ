@@ -13,12 +13,7 @@
     <img aling= "center" heigth="30" width ="30" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
     style="max-width: 100%">
   </a>
-   &nbsp; &nbsp;
-
-  <a href = "https://www.linkedin.com/in/j-samuel-holanda/">
-    <img aling= "center" heigth="50" width ="80" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
-    style="max-width: 100%">
-  </a>
+ 
  
  <h3> Tecnologias de Front-End <p> 
   
@@ -153,7 +148,19 @@
   <h3> Tecnologias de Devops <p>
  
   <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://ciclosw.files.wordpress.com/2015/08/big-logo.png" 
+   <img aling= "center" heigth="30" width ="30" src = "https://p1.hiclipart.com/preview/384/298/480/jenkins-continuous-integration-software-deployment-software-testing-kohsuke-kawaguchi-continuous-delivery-software-build-plugin-png-clipart.jpg" 
+    style="max-width: 100%">
+  </a>
+  &nbsp;  &nbsp;
+
+  <a href = "">
+   <img aling= "center" heigth="30" width ="30" src = "https://p1.hiclipart.com/preview/384/298/480/jenkins-continuous-integration-software-deployment-software-testing-kohsuke-kawaguchi-continuous-delivery-software-build-plugin-png-clipart.jpg" 
+    style="max-width: 100%">
+  </a>
+  &nbsp;  &nbsp;
+
+  <a href = "">
+   <img aling= "center" heigth="30" width ="30" src = "https://p1.hiclipart.com/preview/384/298/480/jenkins-continuous-integration-software-deployment-software-testing-kohsuke-kawaguchi-continuous-delivery-software-build-plugin-png-clipart.jpg" 
     style="max-width: 100%">
   </a>
   &nbsp;  &nbsp;
