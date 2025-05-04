@@ -115,7 +115,7 @@
   &nbsp;  &nbsp;
 
   <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" 
+   <img aling= "center" heigth="25" width ="25" src = "https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" 
     style="max-width: 100%">
   </a>
    &nbsp;  &nbsp;
