@@ -135,10 +135,6 @@
 
  
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JS-HolandeZ&theme=github_dark&show_icons=true" alt="GitHub stats" width="700" />
-</p>
-
 
 ![Snake animation](https://github.com/JS-HolandeZ/JS-HolandeZ/blob/output/github-contribution-grid-snake-dark.svg)
 
