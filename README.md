@@ -109,7 +109,7 @@
   &nbsp;  &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="70" width ="70" src = "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/playwright-y50bnthygb3rvsppvkm9e.png/playwright-q55xzpenhgjsodksybst.png" 
+   <img aling= "center" heigth="70" width ="70" src = "https://image.pngaaa.com/84/5809084-middle.png" 
     style="max-width: 100%; ">
   </a>
   &nbsp;  &nbsp;
