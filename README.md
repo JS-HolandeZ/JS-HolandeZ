@@ -107,30 +107,34 @@
     style="max-width: 100%">
   </a>
   &nbsp;  &nbsp;
-  
-  <a href = "">
-   <img aling= "center" heigth="40" width ="40" src = "https://icon.icepanel.io/Technology/svg/Playwrite.svg" 
-    style="max-width: 100%; ">
-  </a>
-  &nbsp;  &nbsp;
-
-  <a href = "">
-   <img aling= "center" heigth="40" width ="40" src = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*N5M8NJtZp83EMrK1WGhjjw.png" 
-    style="max-width: 100%; ">
-  </a>
-  &nbsp;  &nbsp;
 
   <a href = "">
    <img aling= "center" heigth="30" width ="30" src = "https://static-00.iconduck.com/assets.00/postman-icon-512x512-egthorop.png" 
     style="max-width: 100%; ">
   </a>
   &nbsp;  &nbsp;
-  
+
   <a href = "">
    <img aling= "center" heigth="30" width ="30" src = "https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" 
     style="max-width: 100%">
   </a>
    &nbsp;  &nbsp;
+  
+  <a href = "">
+   <img aling= "center" heigth="30" width ="30" src = "https://icon.icepanel.io/Technology/svg/Playwrite.svg" 
+    style="max-width: 100%; ">
+  </a>
+  &nbsp;  &nbsp;
+
+  <a href = "">
+   <img aling= "center" heigth="50" width ="50" src = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*N5M8NJtZp83EMrK1WGhjjw.png" 
+    style="max-width: 100%; ">
+  </a>
+  &nbsp;  &nbsp;
+
+  
+  
+  
    
   
   <a href = "">
