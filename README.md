@@ -109,6 +109,12 @@
   &nbsp;  &nbsp;
   
   <a href = "">
+   <img aling= "center" heigth="70" width ="70" src = "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/playwright-y50bnthygb3rvsppvkm9e.png/playwright-q55xzpenhgjsodksybst.png?_a=DATAdtAAZAA0" 
+    style="max-width: 100%; ">
+  </a>
+  &nbsp;  &nbsp;
+
+  <a href = "">
    <img aling= "center" heigth="70" width ="70" src = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*N5M8NJtZp83EMrK1WGhjjw.png" 
     style="max-width: 100%; ">
   </a>
