@@ -69,7 +69,7 @@
    &nbsp;  &nbsp;
    
   <a href = "">
-   <img aling= "center" heigth="60" width ="80" src = "https://wpforms.com/wp-content/uploads/cache/integrations/62a004b95946bb97541afa471dcca73a.png" 
+   <img aling= "center" heigth="40" width ="40" src = "https://wpforms.com/wp-content/uploads/cache/integrations/62a004b95946bb97541afa471dcca73a.png" 
     style="max-width: 100%">
   </a>
   &nbsp;  &nbsp;
