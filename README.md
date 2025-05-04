@@ -56,7 +56,7 @@
  
  <h3> Tecnologias de Back-End <p>
   <a href = "">
-   <img aling= "center" heigth="50" width ="50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" 
+   <img aling= "center" heigth="30" width ="30" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" 
     style="max-width: 100%">
   </a>
   &nbsp; &nbsp;
@@ -68,13 +68,13 @@
   &nbsp; &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="40" width ="50" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/Maven.png" 
-    style="max-width: 100%; ">
+   <img aling= "center" heigth="30" width ="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/120px-Typescript_logo_2020.svg.png" 
+   style="max-width: 100%">
   </a>
-  &nbsp;  &nbsp;
+  &nbsp; &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
+   <img aling= "center"  heigth="30" width ="30" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
     style="max-width: 100%">
   </a>
    &nbsp;  &nbsp;
@@ -86,7 +86,7 @@
   &nbsp;  &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="50" width ="50" src = "https://www.w3schools.in/wp-content/uploads/mongodb-logo.png" 
+   <img aling= "center"  heigth="30" width ="30" src = "https://www.w3schools.in/wp-content/uploads/mongodb-logo.png" 
     style="max-width: 100%">
   </a>
 
