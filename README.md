@@ -56,7 +56,7 @@
  
  <h3> Tecnologias de Back-End <p>
   <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" 
+   <img aling= "center" heigth="400" width ="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" 
     style="max-width: 100%">
   </a>
   &nbsp; &nbsp;
@@ -86,7 +86,7 @@
   &nbsp;  &nbsp;
   
   <a href = "">
-   <img aling= "center"  heigth="30" width ="30" src = "https://www.w3schools.in/wp-content/uploads/mongodb-logo.png" 
+   <img aling= "center"  heigth="40" width ="40" src = "https://www.w3schools.in/wp-content/uploads/mongodb-logo.png" 
     style="max-width: 100%">
   </a>
 
