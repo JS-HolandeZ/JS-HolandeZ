@@ -57,7 +57,7 @@
   &nbsp;  &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="80" width ="110" src = "[http://maven.apache.org/images/maven-logo-white-on-black.png](https://banner2.cleanpng.com/20180607/esv/aa822iu1e.webp)" 
+   <img aling= "center" heigth="80" width ="110" src = "https://banner2.cleanpng.com/20180607/esv/aa822iu1e.webp" 
     style="max-width: 100%; ">
   </a>
   &nbsp;  &nbsp;
