@@ -109,7 +109,7 @@
   &nbsp;  &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="70" width ="70" src = "https://image.pngaaa.com/84/5809084-middle.png" 
+   <img aling= "center" heigth="70" width ="70" src = "https://icon.icepanel.io/Technology/svg/Playwrite.svg" 
     style="max-width: 100%; ">
   </a>
   &nbsp;  &nbsp;
