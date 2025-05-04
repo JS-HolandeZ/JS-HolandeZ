@@ -103,7 +103,7 @@
  <h3> Tecnologias de Testes <p>
  
   <a href = "">
-   <img aling= "center" heigth="50" width ="50" src = "https://ciclosw.files.wordpress.com/2015/08/big-logo.png" 
+   <img aling= "center" heigth="30" width ="30" src = "https://ciclosw.files.wordpress.com/2015/08/big-logo.png" 
     style="max-width: 100%">
   </a>
   &nbsp;  &nbsp;
@@ -132,19 +132,9 @@
   </a>
    &nbsp;  &nbsp;
    
-  <a href = "">
-   <img aling= "center" heigth="40" width ="80" src = "https://i1.wp.com/css-tricks.com/wp-content/uploads/2019/06/cypress-logo.png?fit=1200%2C600&ssl=1"
-  </a>
-  &nbsp;  &nbsp;
   
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" 
-    style="max-width: 100%">
-  </a>
-  &nbsp;  &nbsp;
-  
-  <a href = "">
-   <img aling= "center" heigth="40" width ="40" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/JMeter_Logo.png" 
+   <img aling= "center" heigth="30" width ="30" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/JMeter_Logo.png" 
     style="max-width: 100%">
   </a>
  </h3>
