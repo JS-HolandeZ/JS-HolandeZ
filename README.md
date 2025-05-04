@@ -6,28 +6,14 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C5F7&width=435&lines=Quality+Assurance+%7C+Test+Automation+%7C+QA+Tester)](https://git.io/typing-svg)
 
-
-
-
  
 
   <a href = "https://www.linkedin.com/in/j-samuel-holanda/">
-   <img aling= "center" heigth="50" width ="80" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
-  style="max-width: 100%">
-  
-</a>
-
-
-
-
+    <img aling= "center" heigth="50" width ="80" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
+    style="max-width: 100%">
+  </a>
  
  <h3> Tecnologias de Front-End <p> 
-  
-  <a href = "">
-   <img aling= "center" heigth="30" width ="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-   style="max-width: 100%">
-  </a>
-  &nbsp; &nbsp;
   
   <a href = "">
    <img aling= "center" heigth="30" width ="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" 
@@ -48,13 +34,19 @@
   &nbsp; &nbsp;
 
   <a href = "">
-   <img aling= "center" heigth="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" 
+   <img aling= "center" heigth="30" width ="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
    style="max-width: 100%">
   </a>
   &nbsp; &nbsp;
 
   <a href = "">
    <img aling= "center" heigth="30" width ="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/120px-Typescript_logo_2020.svg.png" 
+   style="max-width: 100%">
+  </a>
+  &nbsp; &nbsp;
+
+  <a href = "">
+   <img aling= "center" heigth="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" 
    style="max-width: 100%">
   </a>
   
