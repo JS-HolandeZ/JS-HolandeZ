@@ -9,7 +9,7 @@
 
  <h3> Contato e Informações <p> 
 
-  <a href = "https://www.linkedin.com/in/j-samuel-holanda/">
+  <a href = "https://www.linkedin.com/company/jsystem-qs">
     <img aling= "center" heigth="30" width ="30" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
     style="max-width: 100%">
   </a>
